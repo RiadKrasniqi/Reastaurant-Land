@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 int num = 0;
+    int num2 = 2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
